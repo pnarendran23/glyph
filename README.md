@@ -48,7 +48,7 @@ Glyph/
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/pnarendran23/glyph.git)
+   git clone https://github.com/pnarendran23/glyph.git
    ```
 2. Open `Glyph.xcodeproj` in Xcode.
 3. Select your team in the **Signing & Capabilities** tab.
